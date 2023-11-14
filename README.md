@@ -40,7 +40,7 @@ cd lazyrecon
 chmod +x lazyrecon.sh
 ```
 ```
-bash lazyrecon.sh
+sudo bash lazyrecon.sh
 ```
 
 
