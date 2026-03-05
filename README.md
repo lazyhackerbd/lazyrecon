@@ -22,7 +22,8 @@
 - Its Super fast
 - It will save your time
 - It Download all the package from real source
-- Using this tools your hunting will be more relaxable
+- Using this tools your hunting will be more easy.
+- follow me @lazyhackerbd
 
 
 ### How To Install
